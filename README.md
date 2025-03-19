@@ -8,6 +8,10 @@ pip install  sqlalchemy
 
 pip install dotenv 
 
+pip install pymysql
+
+pip install streamlit
+
 GOOGLE_API_KEY="api_key"
 db_type="mysql"
 host="localhost"
